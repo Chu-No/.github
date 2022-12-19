@@ -19,5 +19,9 @@
       <td align="center"><a href="https://github.com/whvhrqhrud"><img src="https://avatars.githubusercontent.com/u/90177955?v=4" width="100px;" alt="BoKyung Kim"/><br /><sub><b>BoKyung Kim</b></sub></a></td>
       <td align="center"><a href="https://github.com/SONGJUBAE"><img src="https://avatars.githubusercontent.com/u/97033585?v=4" width="100px;" alt="JuBae Song"/><br /><sub><b>JuBae Song</b></sub></a></td>
     </tr>
+    <tr>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/28899188?s=88&v=4" width="100px;" alt="JaeHyeon Shin"/><br /><sub><b>JaeHyeon Shin</b></sub></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/37357697?s=88&v=4" width="100px;" alt="TaeHyeon Kim"/><br /><sub><b>TaeHyeon Kim</b></sub></td>
+    </tr>
   </tbody>
 </table>
