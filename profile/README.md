@@ -10,7 +10,7 @@
       <td align="center"><a href="https://github.com/Kidongg"><img src="https://avatars.githubusercontent.com/u/104154151?v=4" width="100px;" alt="Kidong Lee"/><br /><sub><b>Kidong Lee</b></sub></a></td>
       <td align="center"><a href="https://github.com/jaeill12"><img src="https://avatars.githubusercontent.com/u/89581777?v=4" width="100px;" alt="JaeIll Heo"/><br /><sub><b>JaeIll Heo</b></sub></a></td>
       <td align="center"><a href="https://github.com/whvhrqhrud"><img src="https://avatars.githubusercontent.com/u/90177955?v=4" width="100px;" alt="BoKyung Kim"/><br /><sub><b>BoKyung Kim</b></sub></a></td>
-      <td align="center"><a href="https://github.com/SONGJUBAE"><img src="https://avatars.githubusercontent.com/u/90177955?v=4" width="100px;" alt="JuBae Song"/><br /><sub><b>JuBae Song</b></sub></a></td>
+      <td align="center"><a href="https://github.com/SONGJUBAE"><img src="https://avatars.githubusercontent.com/u/97033585?v=4" width="100px;" alt="JuBae Song"/><br /><sub><b>JuBae Song</b></sub></a></td>
     </tr>
   </tbody>
 </table>
