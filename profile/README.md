@@ -1,7 +1,7 @@
 # 웹앱 스터디 Organization 프로필입니다.
 
 ## 이런 것들을 주제로 하고 있어요.
-- node.js, express.js, nest.js
+- node.js, express, nest.js
 - react.js
 - mariaDB
 
